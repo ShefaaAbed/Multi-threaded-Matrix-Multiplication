@@ -1,6 +1,4 @@
-//ALA' AYMAN MOHAMMAD RASHEED HADER,132911 
-//SEWAR MOHAMMAD TAYEL GARIBEH, 133460 
-//SHEFA'A ABDEL RAHMAN AHMAD AL- ZOU'BI,133553
+
 #include <iostream>
 #include <fstream>
 #include <string>
