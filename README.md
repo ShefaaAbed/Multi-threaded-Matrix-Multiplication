@@ -1,5 +1,7 @@
 # Multi-threaded-Matrix-Multiplication
 
+In src file you can find the codes.
+
 This code is implement a multi-threaded matrix multiplication using C/C++.
 The program will create T worker threads to perform the operation (T will be passed to the program with the Linux command line). Each of the threads needs to perform part of the total matrix multiplication operation.
 
